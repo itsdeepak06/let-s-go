@@ -2,6 +2,11 @@
 tour and travel website
 # Tour and Travel Application
 
+## images
+![image](https://github.com/user-attachments/assets/3c4780fd-a2bd-4f60-9fb2-98f64f84f1da)
+
+
+
 ## Introduction
 
 Welcome to the Tour and Travel Application repository! This project is designed to provide a seamless experience for users to explore and book travel packages. It includes features such as destination search, package details, user reviews, booking functionality, and more.
@@ -14,7 +19,7 @@ Welcome to the Tour and Travel Application repository! This project is designed 
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript,
 ## Contact
 
 Email - dksap1000@gmail.com
